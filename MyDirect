@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,nod3.org
+IP-CIDR,119.188.240.179/32,no-resolve
+IP-CIDR,119.188.240.197/32,no-resolve
+SRC-PORT,8897,DIRECT
+DOMAIN-SUFFIX,pub.3gppnetwork.org
