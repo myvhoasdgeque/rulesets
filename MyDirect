@@ -4,3 +4,4 @@ IP-CIDR,119.188.240.197/32,no-resolve
 SRC-PORT,8897,DIRECT
 DOMAIN-SUFFIX,pub.3gppnetwork.org
 DOMAIN-SUFFIX,lowiro-cdn.net
+DOMAIN-SUFFIX,lowiro.com
