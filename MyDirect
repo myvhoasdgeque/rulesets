@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,pub.3gppnetwork.org
 DOMAIN-SUFFIX,lowiro-cdn.net
 DOMAIN-SUFFIX,lowiro.com
 SRC-IP-CIDR,192.168.50.178/32
+PROCESS-NAME,xunlei-pan-cli.3.21.0.amd64
