@@ -7,4 +7,5 @@ DOMAIN-SUFFIX,lowiro-cdn.net
 DOMAIN-SUFFIX,lowiro.com
 SRC-IP-CIDR,192.168.50.178/32
 PROCESS-NAME,xunlei-pan-cli.3.21.0.amd64
+PROCESS-NAME,index.cgi
 SRC-IP-CIDR,172.27.3.227/32
