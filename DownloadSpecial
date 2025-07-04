@@ -4,6 +4,7 @@ USER-AGENT,com.apple.appstored*
 DOMAIN,aod.itunes.apple.com
 DOMAIN,api.smoot.apple.cn
 DOMAIN,appldnld.apple.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,iosapps.itunes.apple.com
