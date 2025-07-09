@@ -1,8 +1,0 @@
-DOMAIN,yunmictl.green-motive.cn
-DOMAIN,yunmictl.unilifemedia.com
-AND,((DOMAIN,stun.hitv.com),(NETWORK,UDP))
-#DOMAIN-SUFFIX,heytapmobi.com
-IP-CIDR,95.161.76.100/31
-DOMAIN,updates.ghub.logitechg.com
-#AND,((IP-CIDR,5.5.5.5/32),(DST-PORT,55555))
-
